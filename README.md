@@ -1,6 +1,4 @@
-## Mimi Wang
-
-# Hi, I'm Mimi Wang
+# Mimi Wang
 
 **Computer Science @ University of Washington Seattle '27**  
 *Business & Entrepreneurship Minor*
@@ -15,7 +13,7 @@ Currently developing an AI Study Copilot that helps students learn from lectures
 
 ## 🚀 What I'm Building
 
-### Atlas -- AI Study Copilot
+### Atlas AI Study Buddy
 
 An AI-powered learning platform that transforms course materials into personalized study experiences.
 
@@ -44,6 +42,22 @@ Built an AI travel planning platform featuring personalized itinerary generation
 - User authentication
 - Saved travel preferences
 - Multi-city trip planning
+
+---
+
+### Crop Yield Forecasting
+**Python · Machine Learning · Databricks · Pandas · Scikit-Learn**
+
+🥈 2nd Place at Databricks
+
+Built a machine learning model to predict agricultural crop yields using historical environmental and production data.
+
+**Highlights**
+- Data cleaning and feature engineering
+- Model training and evaluation
+- Forecasting and prediction workflows
+- Large-scale data analysis using Databricks
+- Team-based data science project
 
 ---
 
@@ -113,6 +127,6 @@ Volunteer coordination platform designed to connect LGBTQ+ community members wit
 
 ## 📫 Connect
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mimilwang)
+- LinkedIn: [mimilwang](https://linkedin.com/in/mimilwang)
 - Email: mimilhwang@gmail.com
 - Portfolio: coming soon 🚀
